@@ -1,0 +1,20 @@
+# omit logs
+*.log
+*.log.gz
+# omit any persisted data and caches
+.cache
+*.json
+*.lock
+# omit env configuration
+*.env
+# omit any compiled binaries
+*.jar
+*.class
+# omit any game related pieces of data
+*.mca
+*.dat
+*.dat_old
+# omit any RCON console related data
+.rcon-cli.*
+# omit the entire DiscordSRV plugin configuration as it contains sensitive data
+DiscordSRV

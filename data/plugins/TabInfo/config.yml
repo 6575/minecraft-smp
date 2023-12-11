@@ -1,0 +1,18 @@
+#Customize text values here. Changes require a restart
+ServerName: "painsource's SMP"
+
+ShowPing: true
+
+OverworldColor: WHITE
+
+NetherColor: ORANGE
+
+EndColor: PURPLE
+
+BestPingMax: 99
+BestPingColor: GREEN
+
+GoodPingMax: 299
+GoodPingColor: YELLOW
+
+PoorPingColor: RED
