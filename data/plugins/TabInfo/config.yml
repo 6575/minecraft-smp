@@ -5,9 +5,9 @@ ShowPing: true
 
 OverworldColor: WHITE
 
-NetherColor: ORANGE
+NetherColor: RED
 
-EndColor: PURPLE
+EndColor: YELLOW
 
 BestPingMax: 99
 BestPingColor: GREEN
